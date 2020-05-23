@@ -1,0 +1,17 @@
+.movies h3{
+    text-align: center;
+}
+
+.movies{
+    color: green;
+}
+
+.movies ol {
+    color:red;
+}
+
+ol{
+    border-radius: 25px;
+    border-style: solid;
+    border-color: cornsilk;
+}
